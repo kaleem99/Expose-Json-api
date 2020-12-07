@@ -1,0 +1,31 @@
+{
+  "name": "mohammed-kaleem-280-node-file-io-",
+  "version": "1.0.0",
+  "description": "Node & SQL assignment (282) For raw project instructions see: https://raw.githubusercontent.com/Umuzi-org/tech-department/master/content/projects/nodejs/sql/_index.md",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4",
+    "params": "^0.1.1",
+    "pg": "^8.4.1",
+    "readline": "^1.3.0"
+  },
+  "devDependencies": {
+    "jasmine": "^3.6.1"
+  },
+  "scripts": {
+    "test": "jasmine",
+    "nodemon": "nodemon ./src/api.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Umuzi-org/Mohammed-Kaleem-280-node-file-io-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Umuzi-org/Mohammed-Kaleem-280-node-file-io-/issues"
+  },
+  "homepage": "https://github.com/Umuzi-org/Mohammed-Kaleem-280-node-file-io-#readme"
+}
